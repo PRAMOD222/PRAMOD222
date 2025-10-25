@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Web Developer | MERN Stack Specialist | DevOps Enthusiast**
 
-🌐 [pramodkesarkar.tech](https://pramodkesarkar.tech)  
+🌐 [pramodkesarkar.in](https://pramodkesarkar.in)  
 📍 Shippur, India  
 📧 pramodkesarakar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pramodkesarkar-dev) | [GitHub](https://github.com/PRAMOD222)
